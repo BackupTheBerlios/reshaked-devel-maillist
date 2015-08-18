@@ -1,0 +1,18 @@
+From thomas at karmann-paf.de  Fri Aug  4 12:38:21 2006
+From: thomas at karmann-paf.de (Thomas Karmann)
+Date: Fri, 4 Aug 2006 12:38:21 +0200
+Subject: [Reshaked-devel] Hello
+Message-ID: <20060804103821.GA26561@pc-thomas>
+
+Hi,
+
+some guys at #lad told me that you probably need beta-testers for your app. 
+Although i'm not a programmer, I'm using linux for about 6 years and have been
+using renoise (http://www.renoise.com) under windows for some years.
+So i'd be kind if you could give me a link to the recent sources. Or should i
+checkout SVN?
+
+Greets,
+samoht
+
+
